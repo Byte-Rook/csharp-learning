@@ -18,3 +18,4 @@ C# öğrenirken hazırladığım konsol uygulamaları.
 Ana klasörde terminal açıp şu komutu çalıştırın:
 
 `dotnet run --project Lesson06`
+- Lesson07: Git ve GitHub — değişiklikleri kaydetme ve yükleme
